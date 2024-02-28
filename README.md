@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Franco 👋👋👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-franco-9a4678174/)
+
 
 ![João Franco GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoFranco1998&show_icons=true&theme=dracula)
 
@@ -22,5 +22,7 @@
 
 Programar é dar vida às ideias do ser humano.
 
-## Email Profissional:
-- JoaoFrancoDev@outlook.pt
+## Contactos Profissional:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-franco-9a4678174/)
+- <img align="center" alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> JoaoFrancoDev@outlook.pt
